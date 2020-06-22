@@ -7,4 +7,4 @@ curl --location --request POST 'https://medicabi.heroku.com/send' \
   "Rating": 5,
   "Effects": "Happy",
   "Flavor": "Sweet",
-  "Description": "Something that is good for baking or eating. I would like to bake it into cookies or brownies as an edible."}'
+  "Description": "Something that is good for baking or eating and helps medicate for pain and anxiety. I would like to bake it into cookies or brownies as an edible."}'
